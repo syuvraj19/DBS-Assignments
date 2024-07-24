@@ -1,33 +1,29 @@
-# DBS311
-Oracle Database design and SQL
+# DBS311 - Oracle Database Design and SQL
 
-## Description:
-- The entire set of SQL statements using Oracle's DBMS
-- Oracle's SQL *Plus commands.
-- Logical and physical database schema for a business application requiring 12-18 tables including all necessary contraints to protect the integrity of the data
+## Course Overview
+Welcome to the DBS311 repository! This course will guide you through mastering Oracle's DBMS and SQL, from basic commands to complex database schema design.
 
+## Learning Outcomes
+- **Data Integrity**: Implement constraints to ensure data integrity.
+- **Team Collaboration**: Work effectively in teams to analyze requirements, create ERDs, and normalize schemas.
+- **Database Optimization**: Identify and use indexes, views, and sequences.
+- **SQL Mastery**: Utilize DDL, DML, TCL, and DCL commands proficiently.
+- **SQL*Plus Proficiency**: Leverage SQL*Plus for efficient SQL command execution and output formatting.
+- **Advanced Data Retrieval**: Execute complex queries using nested and correlated sub-queries.
 
-## Outcomes:
-1. Identify all constraints required to maintain data integrity for a business application
+## Repository Structure
+- **/assignments**: Detailed assignments with instructions.
+- **/projects**: Collaborative group projects.
+- **/resources**: Additional reading materials and scripts.
+- **/scripts**: Useful SQL scripts for assignments and projects.
+- **/docs**: Documentation including ER diagrams and database schemas.
 
-2. Work effectively as a member of a team to analyse data requirements, prepare an Entity Relationship Diagram, normalize application user views and prepare a logical database schema for a business application requiring more than 12 tables
+## Contribution Guidelines
+- **Collaborate**: Engage with peers and offer help.
+- **Document**: Maintain clear documentation for all scripts.
+- **Commit**: Regularly commit changes with meaningful messages.
+- **Review**: Participate in code reviews and provide constructive feedback.
 
-3. Identify use of necessary indexes, views and sequences for an application
+Happy coding and learning!
 
-4. Implement, maintain and retrieve data using an Oracle database for a complex business application
-
-5. Use SQL's Data Definition Language statements of CREATE, ALTER and DROP to create, modify and drop database objects including tables, views, sequences and indexes with all constraints required to maintain data and referential integrity
-
-6. Use SQL*Plus commands to efficiently create, edit and run SQL statements and to format SQL output
-
-7. Use SQL's Data Manipulation Language statements of INSERT, UPDATE and DELETE to add, change and delete application data from tables
-
-8. Use SQL's Transaction Control Language statements of COMMIT to make database changes permanent and ROLLBACK to undo database changes
-
-9. Use SQL's Data Control Language statements of GRANT and REVOKE to permit and remove access to database objects
-
-10. Use commands from SQL*Plus, Oracle's extension to the SQL language, to customize a session environment
-
-11. Use iSQL*Plus to create and run SQL statements
-
-12. Use SQL's SELECT statement to retrieve data required by an application, including use of single row and group functions, nested queries and correlated sub-queries
+[Explore the repository](https://github.com/syuvraj19/DBS-Assignments)
